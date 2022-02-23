@@ -16,6 +16,7 @@ CodedRed's Channel:
 https://www.youtube.com/c/CodedRed
 
 CodedRed's Video on Corpse NPCs:
+
 https://www.youtube.com/watch?v=6LSScMdk0gU&t=234s
 
 https://www.youtube.com/watch?v=sdHi5N7-Yqk&t=81s
