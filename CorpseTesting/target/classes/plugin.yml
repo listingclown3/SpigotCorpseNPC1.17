@@ -1,0 +1,9 @@
+name: CorpseNPC
+version: 1.0
+main: me.list.corpsenpc.CorpseNPC
+api-version: 1.17
+authors: [ list3 ]
+description: Plugin for Valley SMP
+
+commands: 
+  corpsenpc: 
